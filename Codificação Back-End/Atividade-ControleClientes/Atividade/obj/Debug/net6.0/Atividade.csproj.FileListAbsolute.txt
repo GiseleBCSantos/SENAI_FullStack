@@ -1,0 +1,15 @@
+/home/aluno/g/senai-Codificação/Atividade-ControleClientes/Atividade/bin/Debug/net6.0/Atividade
+/home/aluno/g/senai-Codificação/Atividade-ControleClientes/Atividade/bin/Debug/net6.0/Atividade.deps.json
+/home/aluno/g/senai-Codificação/Atividade-ControleClientes/Atividade/bin/Debug/net6.0/Atividade.runtimeconfig.json
+/home/aluno/g/senai-Codificação/Atividade-ControleClientes/Atividade/bin/Debug/net6.0/Atividade.dll
+/home/aluno/g/senai-Codificação/Atividade-ControleClientes/Atividade/bin/Debug/net6.0/ref/Atividade.dll
+/home/aluno/g/senai-Codificação/Atividade-ControleClientes/Atividade/bin/Debug/net6.0/Atividade.pdb
+/home/aluno/g/senai-Codificação/Atividade-ControleClientes/Atividade/obj/Debug/net6.0/Atividade.csproj.AssemblyReference.cache
+/home/aluno/g/senai-Codificação/Atividade-ControleClientes/Atividade/obj/Debug/net6.0/Atividade.GeneratedMSBuildEditorConfig.editorconfig
+/home/aluno/g/senai-Codificação/Atividade-ControleClientes/Atividade/obj/Debug/net6.0/Atividade.AssemblyInfoInputs.cache
+/home/aluno/g/senai-Codificação/Atividade-ControleClientes/Atividade/obj/Debug/net6.0/Atividade.AssemblyInfo.cs
+/home/aluno/g/senai-Codificação/Atividade-ControleClientes/Atividade/obj/Debug/net6.0/Atividade.csproj.CoreCompileInputs.cache
+/home/aluno/g/senai-Codificação/Atividade-ControleClientes/Atividade/obj/Debug/net6.0/Atividade.dll
+/home/aluno/g/senai-Codificação/Atividade-ControleClientes/Atividade/obj/Debug/net6.0/ref/Atividade.dll
+/home/aluno/g/senai-Codificação/Atividade-ControleClientes/Atividade/obj/Debug/net6.0/Atividade.pdb
+/home/aluno/g/senai-Codificação/Atividade-ControleClientes/Atividade/obj/Debug/net6.0/Atividade.genruntimeconfig.cache

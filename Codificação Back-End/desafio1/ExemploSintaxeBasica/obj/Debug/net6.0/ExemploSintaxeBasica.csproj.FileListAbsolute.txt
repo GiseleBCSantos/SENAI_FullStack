@@ -1,0 +1,15 @@
+/home/aluno/g/senai-Codificação/desafio1/ExemploSintaxeBasica/bin/Debug/net6.0/ExemploSintaxeBasica
+/home/aluno/g/senai-Codificação/desafio1/ExemploSintaxeBasica/bin/Debug/net6.0/ExemploSintaxeBasica.deps.json
+/home/aluno/g/senai-Codificação/desafio1/ExemploSintaxeBasica/bin/Debug/net6.0/ExemploSintaxeBasica.runtimeconfig.json
+/home/aluno/g/senai-Codificação/desafio1/ExemploSintaxeBasica/bin/Debug/net6.0/ExemploSintaxeBasica.dll
+/home/aluno/g/senai-Codificação/desafio1/ExemploSintaxeBasica/bin/Debug/net6.0/ref/ExemploSintaxeBasica.dll
+/home/aluno/g/senai-Codificação/desafio1/ExemploSintaxeBasica/bin/Debug/net6.0/ExemploSintaxeBasica.pdb
+/home/aluno/g/senai-Codificação/desafio1/ExemploSintaxeBasica/obj/Debug/net6.0/ExemploSintaxeBasica.csproj.AssemblyReference.cache
+/home/aluno/g/senai-Codificação/desafio1/ExemploSintaxeBasica/obj/Debug/net6.0/ExemploSintaxeBasica.GeneratedMSBuildEditorConfig.editorconfig
+/home/aluno/g/senai-Codificação/desafio1/ExemploSintaxeBasica/obj/Debug/net6.0/ExemploSintaxeBasica.AssemblyInfoInputs.cache
+/home/aluno/g/senai-Codificação/desafio1/ExemploSintaxeBasica/obj/Debug/net6.0/ExemploSintaxeBasica.AssemblyInfo.cs
+/home/aluno/g/senai-Codificação/desafio1/ExemploSintaxeBasica/obj/Debug/net6.0/ExemploSintaxeBasica.csproj.CoreCompileInputs.cache
+/home/aluno/g/senai-Codificação/desafio1/ExemploSintaxeBasica/obj/Debug/net6.0/ExemploSintaxeBasica.dll
+/home/aluno/g/senai-Codificação/desafio1/ExemploSintaxeBasica/obj/Debug/net6.0/ref/ExemploSintaxeBasica.dll
+/home/aluno/g/senai-Codificação/desafio1/ExemploSintaxeBasica/obj/Debug/net6.0/ExemploSintaxeBasica.pdb
+/home/aluno/g/senai-Codificação/desafio1/ExemploSintaxeBasica/obj/Debug/net6.0/ExemploSintaxeBasica.genruntimeconfig.cache
