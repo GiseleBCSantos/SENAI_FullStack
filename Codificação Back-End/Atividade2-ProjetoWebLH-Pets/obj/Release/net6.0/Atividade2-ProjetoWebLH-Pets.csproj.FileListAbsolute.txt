@@ -1,0 +1,6 @@
+D:\vsc\SENAI_FullStack\Codificação Back-End\Atividade2-ProjetoWebLH-Pets\obj\Release\net6.0\Atividade2-ProjetoWebLH-Pets.csproj.AssemblyReference.cache
+D:\vsc\SENAI_FullStack\Codificação Back-End\Atividade2-ProjetoWebLH-Pets\obj\Release\net6.0\Atividade2-ProjetoWebLH-Pets.GeneratedMSBuildEditorConfig.editorconfig
+D:\vsc\SENAI_FullStack\Codificação Back-End\Atividade2-ProjetoWebLH-Pets\obj\Release\net6.0\Atividade2-ProjetoWebLH-Pets.AssemblyInfoInputs.cache
+D:\vsc\SENAI_FullStack\Codificação Back-End\Atividade2-ProjetoWebLH-Pets\obj\Release\net6.0\Atividade2-ProjetoWebLH-Pets.AssemblyInfo.cs
+D:\vsc\SENAI_FullStack\Codificação Back-End\Atividade2-ProjetoWebLH-Pets\obj\Release\net6.0\Atividade2-ProjetoWebLH-Pets.csproj.CoreCompileInputs.cache
+D:\vsc\SENAI_FullStack\Codificação Back-End\Atividade2-ProjetoWebLH-Pets\obj\Release\net6.0\Atividade2-ProjetoWebLH-Pets.MvcApplicationPartsAssemblyInfo.cache
